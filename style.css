@@ -217,25 +217,14 @@ a:focus {
 /* Shorthand grid-area: grid-row-start / grid-column-start / grid-row-end / grid-column-end */
 
 .pos-1 {
-	grid-area: 10 / 1 / 26 / 7;
+	grid-area: 11 / 2 / 25 / 8;
 }
-
-.pos-12 {
-	grid-area: 37 / 13 / 26 / 5;
-}
-
 .pos-2 {
 	grid-area: 1 / 20 / 13 / 26;
 }
-
-.pos-11{
-	grid-area: -10 / 19 / 15 / 29;
-}
-
 .pos-3 {
 	grid-area: 1 / 31 / 14 / 37;
 }
-
 .pos-4 {
 	grid-area: 8 / 9 / 19 / 18;
 }
@@ -259,6 +248,15 @@ a:focus {
 .pos-9 {
 	grid-area: 40 / 26 / 51 / 32;
 }
+.pos-10 {
+ 	grid-area: 37 / 39 / 48 / 47;
+}
+.pos-11{
+	grid-area: -10 / 19 / 15 / 29;
+}
+.pos-12 {
+	grid-area: 37 / 13 / 26 / 5;
+}
 
 .pos-13 {
 	grid-area: 28 / 24 / 39 / 32;
@@ -270,10 +268,6 @@ a:focus {
 
 .pos-15 {
 	grid-area: 8 / 48 / 18 / 41;
-}
-
-.pos-10 {
- 	grid-area: 37 / 39 / 48 / 47;
 }
 
 .content__title {
